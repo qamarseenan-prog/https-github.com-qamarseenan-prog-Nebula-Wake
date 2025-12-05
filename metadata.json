@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Wake",
+  "description": "A smart alarm clock that greets you with AI-generated daily insights and motivation using Gemini.",
+  "requestFramePermissions": []
+}
